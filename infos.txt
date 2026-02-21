@@ -1,0 +1,13 @@
+CREATE TABLE Produtos (
+            id INT IDENTITY(1,1) PRIMARY KEY,
+            nome NVARCHAR(255),
+            descrição NVARCHAR(max),
+            preço DECIMAL(18,2),
+            image_url NVARCHAR(2083)
+)
+
+sqllab001
+sqllab0011(east us)
+
+linomeurer1234
+Lino1234@5467M1134996
