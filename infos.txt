@@ -6,6 +6,3 @@ CREATE TABLE Produtos (
             image_url NVARCHAR(2083)
 )
 
-sqllab001
-sqllab0011(east us)
-
