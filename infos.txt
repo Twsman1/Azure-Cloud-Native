@@ -9,5 +9,3 @@ CREATE TABLE Produtos (
 sqllab001
 sqllab0011(east us)
 
-linomeurer1234
-Lino1234@5467M1134996
